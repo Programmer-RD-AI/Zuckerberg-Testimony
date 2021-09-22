@@ -1,0 +1,21 @@
+{
+    "os": "Linux-5.11.0-34-generic-x86_64-with-debian-bullseye-sid",
+    "python": "3.7.11",
+    "heartbeatAt": "2021-09-22T10:20:07.930585",
+    "startedAt": "2021-09-22T10:19:32.997677",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "cpu_count": 6,
+    "cuda": null,
+    "args": [
+        "-f",
+        "/home/indika/.local/share/jupyter/runtime/kernel-1fb4183e-07c8-45ce-9e31-8a72d979559b.json"
+    ],
+    "state": "running",
+    "program": "00.ipynb",
+    "root": "/home/indika/Programming/Projects/Python/Artifical-Intelligence/PyTorch/NLP/Zuckerberg-Testimony",
+    "host": "programmer-rd-ai",
+    "username": "indika",
+    "executable": "/home/indika/anaconda3/bin/python"
+}
